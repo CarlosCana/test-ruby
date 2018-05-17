@@ -1,4 +1,6 @@
-5.times do print "Hello tout le monde" end
-print "Great Job, my dude"
+print "Hello "
+print "Comment tu t'appel ?"
+user = gets.chomp
 
+print "Great Job, welcome onboard " + user + ", my dude !"
 
